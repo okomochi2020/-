@@ -1,0 +1,10 @@
+baseURL = "https://github.com/okomochi2020/okomochi.github.io/okomochiburogu"
+title = "blank71 hugo-test"
+languageCode = "ja-jp"
+author = "blank71"
+canonifyurls = true
+paginate = 3
+theme = "aether"
+publishDir = "docs"
+hasCJKLanguage = true
+title = "My New Hugo Site"
